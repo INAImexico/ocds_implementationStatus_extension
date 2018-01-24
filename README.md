@@ -22,7 +22,7 @@ Add a new field named “implementationStatus” in the “Implementation” obj
 
 **Code** | **Title** | **Description**
 --|--|--
-status | Implementation status | The current status of the contract implementation based on the implementationStatus codelist (url).
+status | Implementation status | The current status of the contract implementation based on the implementationStatus codelist (https://github.com/INAImexico/ocds_implementationStatus_extension/blob/master/codelists/implementationStatus.csv).
 planning | Planning | The contract has been signed, but the provision or construction of the goods, services or works has not started.
 ongoing | Ongoing | The provision or construction of the goods, services or works is in progress.
 concluded | Concluded | The provision or construction of the goods, services or works has officially ended.
