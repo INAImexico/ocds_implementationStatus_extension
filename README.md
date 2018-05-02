@@ -4,7 +4,7 @@
 In Mexico, when talking about works and services related with them it is necessary to publish a set of specific variables about its implementation. One of them is the implementation status of the work or service related with it. It includes a code list whose values are the following:
 
   - planning
-  - implementation
+  - ongoing
   - concluded
 
 ## Proposal:
