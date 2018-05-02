@@ -14,7 +14,7 @@ Add a new field named “implementationStatus” in the “Implementation” obj
 ### Schema
 
   - Implementation {object}
-    - status (string) (codelist)
+    - status (string, null) (codelist)
 
 
 ## Defining texts:
