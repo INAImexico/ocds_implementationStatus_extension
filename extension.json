@@ -12,6 +12,9 @@
     "en": "https://github.com/INAImexico/ocds_implementationStatus_extension"
   },
   "codelists": [
-    "implementationStatus.csv",
+    "implementationStatus.csv"
+  ],
+  "schemas": [
+    "release-schema.json"
   ]
 }

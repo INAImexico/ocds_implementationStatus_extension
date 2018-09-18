@@ -9,6 +9,12 @@
             "string",
             "null"
           ],
+          "enum": [
+            "planning",
+            "ongoing",
+            "concluded",
+            null
+          ],
           "codelist": "implementationStatus.csv",
           "openCodelist": false
         }
