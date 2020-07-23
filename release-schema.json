@@ -11,7 +11,7 @@
           ],
           "enum": [
             "planning",
-            "ongoing",
+            "active",
             "concluded",
             null
           ],
