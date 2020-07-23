@@ -4,7 +4,7 @@
 In Mexico, when talking about works and services related with them it is necessary to publish a set of specific variables about its implementation. One of them is the implementation status of the work or service related with it. It includes a code list whose values are the following:
 
   - planning
-  - ongoing
+  - active
   - concluded
 
 ## Proposal:
@@ -24,7 +24,7 @@ Add a new field named “implementationStatus” in the “Implementation” obj
 --|--|--
 status | Implementation status | The current status of the contract implementation based on the [implementationStatus](https://github.com/INAImexico/ocds_implementationStatus_extension/blob/master/codelists/implementationStatus.csv)  codelist.
 planning | Planning | The contract has been signed, but the provision or construction of the goods, services or works has not started.
-ongoing | Ongoing | The provision or construction of the goods, services or works is in progress.
+active | Active | The provision or construction of the goods, services or works is in progress.
 concluded | Concluded | The provision or construction of the goods, services or works has officially ended.
 
 ## Issues 
